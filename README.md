@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is a cool touch.
+
+Working on learning coding from scratch.
+
 <!--
 **JLowo/JLowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
